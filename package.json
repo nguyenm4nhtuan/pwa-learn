@@ -1,7 +1,6 @@
 {
   "name": "@sm/product-available",
   "version": "1.0.0",
-  "description": "",
   "author": "Tuan Nguyen <tuannm2@smartosc.com>",
   "license": "MIT",
   "main": "./lib/components/TopBar/index.js",
@@ -15,5 +14,22 @@
     "@magento/venia-ui": "*",
     "react": "~16.9.0",
     "react-router-dom": "~5.1.0"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenm4nhtuan/pwa-learn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nguyenm4nhtuan/pwa-learn/issues"
+  },
+  "homepage": "https://github.com/nguyenm4nhtuan/pwa-learn#readme",
+  "description": ""
 }
