@@ -1,0 +1,12 @@
+.idea
+.vscode
+coverage
+node_modules
+test-results
+dist
+.DS_Store
+.env
+npm-debug.log
+test-report.xml
+test-results.json
+yarn-error.log
